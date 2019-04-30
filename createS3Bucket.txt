@@ -1,0 +1,13 @@
+{  
+
+   "Resources":{  
+
+      "your-bucket-name":{  
+
+         "Type":"AWS::S3::Bucket"
+
+      }
+
+   }
+
+}
