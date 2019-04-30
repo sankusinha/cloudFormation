@@ -2,7 +2,7 @@
 
    "Resources":{  
 
-      "your-bucket-name":{  
+      "sankuCloudFormation":{  
 
          "Type":"AWS::S3::Bucket"
 
