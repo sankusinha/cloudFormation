@@ -1,0 +1,9 @@
+Resources:
+  EC2Instance:
+    Type: 'AWS::EC2::Instance'
+    Properties:
+      InstanceType: t2.micro
+      ImageId: ami-05dff2fbe99ec205f
+      Tags:
+        - Key: Name
+          Value: SUSEExample
